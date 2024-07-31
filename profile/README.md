@@ -1,5 +1,5 @@
 ## Hi there, this is my practice project HomeStoree👋
-# Website selling household appliances
+### Website selling household appliances
 
 <!--
 
