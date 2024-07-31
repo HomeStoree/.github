@@ -1,6 +1,7 @@
-## Hi there, this is my practice project HomeStoree👋
-### Website selling household appliances
-
+## Hi there 👋
+### HomeStoree
+- Website selling household appliances
+- this is my practice project about Vue.js & Springboot
 <!--
 
 **Here are some ideas to get you started:**
